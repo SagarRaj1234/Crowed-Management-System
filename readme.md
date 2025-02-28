@@ -7,7 +7,3 @@
 ```bash
 pip install -r requirements.txt
 ```
-
-- hello
-  - my
-    - name
